@@ -128,15 +128,15 @@
             Me.barButtonGroup14 = New DevExpress.XtraBars.BarButtonGroup()
             Me.stylesRibbonPageGroup1 = New DevExpress.XtraRichEdit.UI.StylesRibbonPageGroup()
             Me.editingRibbonPageGroup1 = New DevExpress.XtraRichEdit.UI.EditingRibbonPageGroup()
-            DirectCast(Me.xtraTabControl1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.xtraTabControl1, System.ComponentModel.ISupportInitialize).BeginInit()
             Me.xtraTabControl1.SuspendLayout()
             Me.xtraTabPage1.SuspendLayout()
-            DirectCast(Me.ribbonControl1, System.ComponentModel.ISupportInitialize).BeginInit()
-            DirectCast(Me.repositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
-            DirectCast(Me.repositoryItemRichEditFontSizeEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
-            DirectCast(Me.repositoryItemRichEditStyleEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.ribbonControl1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.repositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.repositoryItemRichEditFontSizeEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.repositoryItemRichEditStyleEdit1, System.ComponentModel.ISupportInitialize).BeginInit()
             Me.xtraTabPage2.SuspendLayout()
-            DirectCast(Me.richEditBarController1, System.ComponentModel.ISupportInitialize).BeginInit()
+            CType(Me.richEditBarController1, System.ComponentModel.ISupportInitialize).BeginInit()
             Me.SuspendLayout()
             ' 
             ' xtraTabControl1
@@ -183,65 +183,65 @@
             ' 
             ' fileNewItem1
             ' 
-            Me.fileNewItem1.Glyph = (DirectCast(resources.GetObject("fileNewItem1.Glyph"), System.Drawing.Image))
+            Me.fileNewItem1.Glyph = (CType(resources.GetObject("fileNewItem1.Glyph"), System.Drawing.Image))
             Me.fileNewItem1.Id = 0
-            Me.fileNewItem1.LargeGlyph = (DirectCast(resources.GetObject("fileNewItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fileNewItem1.LargeGlyph = (CType(resources.GetObject("fileNewItem1.LargeGlyph"), System.Drawing.Image))
             Me.fileNewItem1.Name = "fileNewItem1"
             ' 
             ' fileOpenItem1
             ' 
-            Me.fileOpenItem1.Glyph = (DirectCast(resources.GetObject("fileOpenItem1.Glyph"), System.Drawing.Image))
+            Me.fileOpenItem1.Glyph = (CType(resources.GetObject("fileOpenItem1.Glyph"), System.Drawing.Image))
             Me.fileOpenItem1.Id = 1
-            Me.fileOpenItem1.LargeGlyph = (DirectCast(resources.GetObject("fileOpenItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fileOpenItem1.LargeGlyph = (CType(resources.GetObject("fileOpenItem1.LargeGlyph"), System.Drawing.Image))
             Me.fileOpenItem1.Name = "fileOpenItem1"
             ' 
             ' fileSaveItem1
             ' 
-            Me.fileSaveItem1.Glyph = (DirectCast(resources.GetObject("fileSaveItem1.Glyph"), System.Drawing.Image))
+            Me.fileSaveItem1.Glyph = (CType(resources.GetObject("fileSaveItem1.Glyph"), System.Drawing.Image))
             Me.fileSaveItem1.Id = 2
-            Me.fileSaveItem1.LargeGlyph = (DirectCast(resources.GetObject("fileSaveItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fileSaveItem1.LargeGlyph = (CType(resources.GetObject("fileSaveItem1.LargeGlyph"), System.Drawing.Image))
             Me.fileSaveItem1.Name = "fileSaveItem1"
             ' 
             ' fileSaveAsItem1
             ' 
-            Me.fileSaveAsItem1.Glyph = (DirectCast(resources.GetObject("fileSaveAsItem1.Glyph"), System.Drawing.Image))
+            Me.fileSaveAsItem1.Glyph = (CType(resources.GetObject("fileSaveAsItem1.Glyph"), System.Drawing.Image))
             Me.fileSaveAsItem1.Id = 3
-            Me.fileSaveAsItem1.LargeGlyph = (DirectCast(resources.GetObject("fileSaveAsItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fileSaveAsItem1.LargeGlyph = (CType(resources.GetObject("fileSaveAsItem1.LargeGlyph"), System.Drawing.Image))
             Me.fileSaveAsItem1.Name = "fileSaveAsItem1"
             ' 
             ' quickPrintItem1
             ' 
-            Me.quickPrintItem1.Glyph = (DirectCast(resources.GetObject("quickPrintItem1.Glyph"), System.Drawing.Image))
+            Me.quickPrintItem1.Glyph = (CType(resources.GetObject("quickPrintItem1.Glyph"), System.Drawing.Image))
             Me.quickPrintItem1.Id = 4
-            Me.quickPrintItem1.LargeGlyph = (DirectCast(resources.GetObject("quickPrintItem1.LargeGlyph"), System.Drawing.Image))
+            Me.quickPrintItem1.LargeGlyph = (CType(resources.GetObject("quickPrintItem1.LargeGlyph"), System.Drawing.Image))
             Me.quickPrintItem1.Name = "quickPrintItem1"
             ' 
             ' printItem1
             ' 
-            Me.printItem1.Glyph = (DirectCast(resources.GetObject("printItem1.Glyph"), System.Drawing.Image))
+            Me.printItem1.Glyph = (CType(resources.GetObject("printItem1.Glyph"), System.Drawing.Image))
             Me.printItem1.Id = 5
-            Me.printItem1.LargeGlyph = (DirectCast(resources.GetObject("printItem1.LargeGlyph"), System.Drawing.Image))
+            Me.printItem1.LargeGlyph = (CType(resources.GetObject("printItem1.LargeGlyph"), System.Drawing.Image))
             Me.printItem1.Name = "printItem1"
             ' 
             ' printPreviewItem1
             ' 
-            Me.printPreviewItem1.Glyph = (DirectCast(resources.GetObject("printPreviewItem1.Glyph"), System.Drawing.Image))
+            Me.printPreviewItem1.Glyph = (CType(resources.GetObject("printPreviewItem1.Glyph"), System.Drawing.Image))
             Me.printPreviewItem1.Id = 6
-            Me.printPreviewItem1.LargeGlyph = (DirectCast(resources.GetObject("printPreviewItem1.LargeGlyph"), System.Drawing.Image))
+            Me.printPreviewItem1.LargeGlyph = (CType(resources.GetObject("printPreviewItem1.LargeGlyph"), System.Drawing.Image))
             Me.printPreviewItem1.Name = "printPreviewItem1"
             ' 
             ' undoItem1
             ' 
-            Me.undoItem1.Glyph = (DirectCast(resources.GetObject("undoItem1.Glyph"), System.Drawing.Image))
+            Me.undoItem1.Glyph = (CType(resources.GetObject("undoItem1.Glyph"), System.Drawing.Image))
             Me.undoItem1.Id = 7
-            Me.undoItem1.LargeGlyph = (DirectCast(resources.GetObject("undoItem1.LargeGlyph"), System.Drawing.Image))
+            Me.undoItem1.LargeGlyph = (CType(resources.GetObject("undoItem1.LargeGlyph"), System.Drawing.Image))
             Me.undoItem1.Name = "undoItem1"
             ' 
             ' redoItem1
             ' 
-            Me.redoItem1.Glyph = (DirectCast(resources.GetObject("redoItem1.Glyph"), System.Drawing.Image))
+            Me.redoItem1.Glyph = (CType(resources.GetObject("redoItem1.Glyph"), System.Drawing.Image))
             Me.redoItem1.Id = 8
-            Me.redoItem1.LargeGlyph = (DirectCast(resources.GetObject("redoItem1.LargeGlyph"), System.Drawing.Image))
+            Me.redoItem1.LargeGlyph = (CType(resources.GetObject("redoItem1.LargeGlyph"), System.Drawing.Image))
             Me.redoItem1.Name = "redoItem1"
             ' 
             ' changeFontNameItem1
@@ -272,156 +272,156 @@
             ' 
             ' changeFontColorItem1
             ' 
-            Me.changeFontColorItem1.Glyph = (DirectCast(resources.GetObject("changeFontColorItem1.Glyph"), System.Drawing.Image))
+            Me.changeFontColorItem1.Glyph = (CType(resources.GetObject("changeFontColorItem1.Glyph"), System.Drawing.Image))
             Me.changeFontColorItem1.Id = 11
-            Me.changeFontColorItem1.LargeGlyph = (DirectCast(resources.GetObject("changeFontColorItem1.LargeGlyph"), System.Drawing.Image))
+            Me.changeFontColorItem1.LargeGlyph = (CType(resources.GetObject("changeFontColorItem1.LargeGlyph"), System.Drawing.Image))
             Me.changeFontColorItem1.Name = "changeFontColorItem1"
             ' 
             ' changeFontBackColorItem1
             ' 
-            Me.changeFontBackColorItem1.Glyph = (DirectCast(resources.GetObject("changeFontBackColorItem1.Glyph"), System.Drawing.Image))
+            Me.changeFontBackColorItem1.Glyph = (CType(resources.GetObject("changeFontBackColorItem1.Glyph"), System.Drawing.Image))
             Me.changeFontBackColorItem1.Id = 12
-            Me.changeFontBackColorItem1.LargeGlyph = (DirectCast(resources.GetObject("changeFontBackColorItem1.LargeGlyph"), System.Drawing.Image))
+            Me.changeFontBackColorItem1.LargeGlyph = (CType(resources.GetObject("changeFontBackColorItem1.LargeGlyph"), System.Drawing.Image))
             Me.changeFontBackColorItem1.Name = "changeFontBackColorItem1"
             ' 
             ' toggleFontBoldItem1
             ' 
-            Me.toggleFontBoldItem1.Glyph = (DirectCast(resources.GetObject("toggleFontBoldItem1.Glyph"), System.Drawing.Image))
+            Me.toggleFontBoldItem1.Glyph = (CType(resources.GetObject("toggleFontBoldItem1.Glyph"), System.Drawing.Image))
             Me.toggleFontBoldItem1.Id = 13
-            Me.toggleFontBoldItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleFontBoldItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleFontBoldItem1.LargeGlyph = (CType(resources.GetObject("toggleFontBoldItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleFontBoldItem1.Name = "toggleFontBoldItem1"
             ' 
             ' toggleFontItalicItem1
             ' 
-            Me.toggleFontItalicItem1.Glyph = (DirectCast(resources.GetObject("toggleFontItalicItem1.Glyph"), System.Drawing.Image))
+            Me.toggleFontItalicItem1.Glyph = (CType(resources.GetObject("toggleFontItalicItem1.Glyph"), System.Drawing.Image))
             Me.toggleFontItalicItem1.Id = 14
-            Me.toggleFontItalicItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleFontItalicItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleFontItalicItem1.LargeGlyph = (CType(resources.GetObject("toggleFontItalicItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleFontItalicItem1.Name = "toggleFontItalicItem1"
             ' 
             ' fontSizeIncreaseItem1
             ' 
-            Me.fontSizeIncreaseItem1.Glyph = (DirectCast(resources.GetObject("fontSizeIncreaseItem1.Glyph"), System.Drawing.Image))
+            Me.fontSizeIncreaseItem1.Glyph = (CType(resources.GetObject("fontSizeIncreaseItem1.Glyph"), System.Drawing.Image))
             Me.fontSizeIncreaseItem1.Id = 21
-            Me.fontSizeIncreaseItem1.LargeGlyph = (DirectCast(resources.GetObject("fontSizeIncreaseItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fontSizeIncreaseItem1.LargeGlyph = (CType(resources.GetObject("fontSizeIncreaseItem1.LargeGlyph"), System.Drawing.Image))
             Me.fontSizeIncreaseItem1.Name = "fontSizeIncreaseItem1"
             ' 
             ' fontSizeDecreaseItem1
             ' 
-            Me.fontSizeDecreaseItem1.Glyph = (DirectCast(resources.GetObject("fontSizeDecreaseItem1.Glyph"), System.Drawing.Image))
+            Me.fontSizeDecreaseItem1.Glyph = (CType(resources.GetObject("fontSizeDecreaseItem1.Glyph"), System.Drawing.Image))
             Me.fontSizeDecreaseItem1.Id = 22
-            Me.fontSizeDecreaseItem1.LargeGlyph = (DirectCast(resources.GetObject("fontSizeDecreaseItem1.LargeGlyph"), System.Drawing.Image))
+            Me.fontSizeDecreaseItem1.LargeGlyph = (CType(resources.GetObject("fontSizeDecreaseItem1.LargeGlyph"), System.Drawing.Image))
             Me.fontSizeDecreaseItem1.Name = "fontSizeDecreaseItem1"
             ' 
             ' clearFormattingItem1
             ' 
-            Me.clearFormattingItem1.Glyph = (DirectCast(resources.GetObject("clearFormattingItem1.Glyph"), System.Drawing.Image))
+            Me.clearFormattingItem1.Glyph = (CType(resources.GetObject("clearFormattingItem1.Glyph"), System.Drawing.Image))
             Me.clearFormattingItem1.Id = 23
-            Me.clearFormattingItem1.LargeGlyph = (DirectCast(resources.GetObject("clearFormattingItem1.LargeGlyph"), System.Drawing.Image))
+            Me.clearFormattingItem1.LargeGlyph = (CType(resources.GetObject("clearFormattingItem1.LargeGlyph"), System.Drawing.Image))
             Me.clearFormattingItem1.Name = "clearFormattingItem1"
             ' 
             ' toggleParagraphAlignmentLeftItem1
             ' 
-            Me.toggleParagraphAlignmentLeftItem1.Glyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentLeftItem1.Glyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentLeftItem1.Glyph = (CType(resources.GetObject("toggleParagraphAlignmentLeftItem1.Glyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentLeftItem1.Id = 25
-            Me.toggleParagraphAlignmentLeftItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentLeftItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentLeftItem1.LargeGlyph = (CType(resources.GetObject("toggleParagraphAlignmentLeftItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentLeftItem1.Name = "toggleParagraphAlignmentLeftItem1"
             ' 
             ' toggleParagraphAlignmentCenterItem1
             ' 
-            Me.toggleParagraphAlignmentCenterItem1.Glyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentCenterItem1.Glyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentCenterItem1.Glyph = (CType(resources.GetObject("toggleParagraphAlignmentCenterItem1.Glyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentCenterItem1.Id = 26
-            Me.toggleParagraphAlignmentCenterItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentCenterItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentCenterItem1.LargeGlyph = (CType(resources.GetObject("toggleParagraphAlignmentCenterItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentCenterItem1.Name = "toggleParagraphAlignmentCenterItem1"
             ' 
             ' toggleParagraphAlignmentRightItem1
             ' 
-            Me.toggleParagraphAlignmentRightItem1.Glyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentRightItem1.Glyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentRightItem1.Glyph = (CType(resources.GetObject("toggleParagraphAlignmentRightItem1.Glyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentRightItem1.Id = 27
-            Me.toggleParagraphAlignmentRightItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentRightItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentRightItem1.LargeGlyph = (CType(resources.GetObject("toggleParagraphAlignmentRightItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentRightItem1.Name = "toggleParagraphAlignmentRightItem1"
             ' 
             ' toggleParagraphAlignmentJustifyItem1
             ' 
-            Me.toggleParagraphAlignmentJustifyItem1.Glyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentJustifyItem1.Glyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentJustifyItem1.Glyph = (CType(resources.GetObject("toggleParagraphAlignmentJustifyItem1.Glyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentJustifyItem1.Id = 28
-            Me.toggleParagraphAlignmentJustifyItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleParagraphAlignmentJustifyItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleParagraphAlignmentJustifyItem1.LargeGlyph = (CType(resources.GetObject("toggleParagraphAlignmentJustifyItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleParagraphAlignmentJustifyItem1.Name = "toggleParagraphAlignmentJustifyItem1"
             ' 
             ' toggleNumberingListItem1
             ' 
-            Me.toggleNumberingListItem1.Glyph = (DirectCast(resources.GetObject("toggleNumberingListItem1.Glyph"), System.Drawing.Image))
+            Me.toggleNumberingListItem1.Glyph = (CType(resources.GetObject("toggleNumberingListItem1.Glyph"), System.Drawing.Image))
             Me.toggleNumberingListItem1.Id = 29
-            Me.toggleNumberingListItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleNumberingListItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleNumberingListItem1.LargeGlyph = (CType(resources.GetObject("toggleNumberingListItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleNumberingListItem1.Name = "toggleNumberingListItem1"
             ' 
             ' toggleBulletedListItem1
             ' 
-            Me.toggleBulletedListItem1.Glyph = (DirectCast(resources.GetObject("toggleBulletedListItem1.Glyph"), System.Drawing.Image))
+            Me.toggleBulletedListItem1.Glyph = (CType(resources.GetObject("toggleBulletedListItem1.Glyph"), System.Drawing.Image))
             Me.toggleBulletedListItem1.Id = 30
-            Me.toggleBulletedListItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleBulletedListItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleBulletedListItem1.LargeGlyph = (CType(resources.GetObject("toggleBulletedListItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleBulletedListItem1.Name = "toggleBulletedListItem1"
             ' 
             ' toggleMultiLevelListItem1
             ' 
-            Me.toggleMultiLevelListItem1.Glyph = (DirectCast(resources.GetObject("toggleMultiLevelListItem1.Glyph"), System.Drawing.Image))
+            Me.toggleMultiLevelListItem1.Glyph = (CType(resources.GetObject("toggleMultiLevelListItem1.Glyph"), System.Drawing.Image))
             Me.toggleMultiLevelListItem1.Id = 31
-            Me.toggleMultiLevelListItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleMultiLevelListItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleMultiLevelListItem1.LargeGlyph = (CType(resources.GetObject("toggleMultiLevelListItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleMultiLevelListItem1.Name = "toggleMultiLevelListItem1"
             ' 
             ' decreaseIndentItem1
             ' 
-            Me.decreaseIndentItem1.Glyph = (DirectCast(resources.GetObject("decreaseIndentItem1.Glyph"), System.Drawing.Image))
+            Me.decreaseIndentItem1.Glyph = (CType(resources.GetObject("decreaseIndentItem1.Glyph"), System.Drawing.Image))
             Me.decreaseIndentItem1.Id = 32
-            Me.decreaseIndentItem1.LargeGlyph = (DirectCast(resources.GetObject("decreaseIndentItem1.LargeGlyph"), System.Drawing.Image))
+            Me.decreaseIndentItem1.LargeGlyph = (CType(resources.GetObject("decreaseIndentItem1.LargeGlyph"), System.Drawing.Image))
             Me.decreaseIndentItem1.Name = "decreaseIndentItem1"
             ' 
             ' increaseIndentItem1
             ' 
-            Me.increaseIndentItem1.Glyph = (DirectCast(resources.GetObject("increaseIndentItem1.Glyph"), System.Drawing.Image))
+            Me.increaseIndentItem1.Glyph = (CType(resources.GetObject("increaseIndentItem1.Glyph"), System.Drawing.Image))
             Me.increaseIndentItem1.Id = 33
-            Me.increaseIndentItem1.LargeGlyph = (DirectCast(resources.GetObject("increaseIndentItem1.LargeGlyph"), System.Drawing.Image))
+            Me.increaseIndentItem1.LargeGlyph = (CType(resources.GetObject("increaseIndentItem1.LargeGlyph"), System.Drawing.Image))
             Me.increaseIndentItem1.Name = "increaseIndentItem1"
             ' 
             ' toggleShowWhitespaceItem1
             ' 
-            Me.toggleShowWhitespaceItem1.Glyph = (DirectCast(resources.GetObject("toggleShowWhitespaceItem1.Glyph"), System.Drawing.Image))
+            Me.toggleShowWhitespaceItem1.Glyph = (CType(resources.GetObject("toggleShowWhitespaceItem1.Glyph"), System.Drawing.Image))
             Me.toggleShowWhitespaceItem1.Id = 34
-            Me.toggleShowWhitespaceItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleShowWhitespaceItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleShowWhitespaceItem1.LargeGlyph = (CType(resources.GetObject("toggleShowWhitespaceItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleShowWhitespaceItem1.Name = "toggleShowWhitespaceItem1"
             ' 
             ' showParagraphFormItem1
             ' 
-            Me.showParagraphFormItem1.Glyph = (DirectCast(resources.GetObject("showParagraphFormItem1.Glyph"), System.Drawing.Image))
+            Me.showParagraphFormItem1.Glyph = (CType(resources.GetObject("showParagraphFormItem1.Glyph"), System.Drawing.Image))
             Me.showParagraphFormItem1.Id = 35
-            Me.showParagraphFormItem1.LargeGlyph = (DirectCast(resources.GetObject("showParagraphFormItem1.LargeGlyph"), System.Drawing.Image))
+            Me.showParagraphFormItem1.LargeGlyph = (CType(resources.GetObject("showParagraphFormItem1.LargeGlyph"), System.Drawing.Image))
             Me.showParagraphFormItem1.Name = "showParagraphFormItem1"
             ' 
             ' insertMergeFieldItem1
             ' 
-            Me.insertMergeFieldItem1.Glyph = (DirectCast(resources.GetObject("insertMergeFieldItem1.Glyph"), System.Drawing.Image))
+            Me.insertMergeFieldItem1.Glyph = (CType(resources.GetObject("insertMergeFieldItem1.Glyph"), System.Drawing.Image))
             Me.insertMergeFieldItem1.Id = 36
-            Me.insertMergeFieldItem1.LargeGlyph = (DirectCast(resources.GetObject("insertMergeFieldItem1.LargeGlyph"), System.Drawing.Image))
+            Me.insertMergeFieldItem1.LargeGlyph = (CType(resources.GetObject("insertMergeFieldItem1.LargeGlyph"), System.Drawing.Image))
             Me.insertMergeFieldItem1.Name = "insertMergeFieldItem1"
             ' 
             ' showAllFieldCodesItem1
             ' 
-            Me.showAllFieldCodesItem1.Glyph = (DirectCast(resources.GetObject("showAllFieldCodesItem1.Glyph"), System.Drawing.Image))
+            Me.showAllFieldCodesItem1.Glyph = (CType(resources.GetObject("showAllFieldCodesItem1.Glyph"), System.Drawing.Image))
             Me.showAllFieldCodesItem1.Id = 37
-            Me.showAllFieldCodesItem1.LargeGlyph = (DirectCast(resources.GetObject("showAllFieldCodesItem1.LargeGlyph"), System.Drawing.Image))
+            Me.showAllFieldCodesItem1.LargeGlyph = (CType(resources.GetObject("showAllFieldCodesItem1.LargeGlyph"), System.Drawing.Image))
             Me.showAllFieldCodesItem1.Name = "showAllFieldCodesItem1"
             ' 
             ' showAllFieldResultsItem1
             ' 
-            Me.showAllFieldResultsItem1.Glyph = (DirectCast(resources.GetObject("showAllFieldResultsItem1.Glyph"), System.Drawing.Image))
+            Me.showAllFieldResultsItem1.Glyph = (CType(resources.GetObject("showAllFieldResultsItem1.Glyph"), System.Drawing.Image))
             Me.showAllFieldResultsItem1.Id = 38
-            Me.showAllFieldResultsItem1.LargeGlyph = (DirectCast(resources.GetObject("showAllFieldResultsItem1.LargeGlyph"), System.Drawing.Image))
+            Me.showAllFieldResultsItem1.LargeGlyph = (CType(resources.GetObject("showAllFieldResultsItem1.LargeGlyph"), System.Drawing.Image))
             Me.showAllFieldResultsItem1.Name = "showAllFieldResultsItem1"
             ' 
             ' toggleViewMergedDataItem1
             ' 
-            Me.toggleViewMergedDataItem1.Glyph = (DirectCast(resources.GetObject("toggleViewMergedDataItem1.Glyph"), System.Drawing.Image))
+            Me.toggleViewMergedDataItem1.Glyph = (CType(resources.GetObject("toggleViewMergedDataItem1.Glyph"), System.Drawing.Image))
             Me.toggleViewMergedDataItem1.Id = 39
-            Me.toggleViewMergedDataItem1.LargeGlyph = (DirectCast(resources.GetObject("toggleViewMergedDataItem1.LargeGlyph"), System.Drawing.Image))
+            Me.toggleViewMergedDataItem1.LargeGlyph = (CType(resources.GetObject("toggleViewMergedDataItem1.LargeGlyph"), System.Drawing.Image))
             Me.toggleViewMergedDataItem1.Name = "toggleViewMergedDataItem1"
             ' 
             ' mergeToNewDocumentItem
@@ -943,7 +943,7 @@
             ' 
             ' stylesRibbonPageGroup1
             ' 
-            Me.stylesRibbonPageGroup1.Glyph = (DirectCast(resources.GetObject("stylesRibbonPageGroup1.Glyph"), System.Drawing.Image))
+            Me.stylesRibbonPageGroup1.Glyph = (CType(resources.GetObject("stylesRibbonPageGroup1.Glyph"), System.Drawing.Image))
             Me.stylesRibbonPageGroup1.ItemLinks.Add(Me.galleryChangeStyleItem1)
             Me.stylesRibbonPageGroup1.Name = "stylesRibbonPageGroup1"
             ' 
@@ -963,15 +963,15 @@
             Me.Controls.Add(Me.ribbonStatusBar1)
             Me.Name = "Form1"
             Me.Text = "Form1"
-            DirectCast(Me.xtraTabControl1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.xtraTabControl1, System.ComponentModel.ISupportInitialize).EndInit()
             Me.xtraTabControl1.ResumeLayout(False)
             Me.xtraTabPage1.ResumeLayout(False)
-            DirectCast(Me.ribbonControl1, System.ComponentModel.ISupportInitialize).EndInit()
-            DirectCast(Me.repositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).EndInit()
-            DirectCast(Me.repositoryItemRichEditFontSizeEdit1, System.ComponentModel.ISupportInitialize).EndInit()
-            DirectCast(Me.repositoryItemRichEditStyleEdit1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.ribbonControl1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.repositoryItemFontEdit1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.repositoryItemRichEditFontSizeEdit1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.repositoryItemRichEditStyleEdit1, System.ComponentModel.ISupportInitialize).EndInit()
             Me.xtraTabPage2.ResumeLayout(False)
-            DirectCast(Me.richEditBarController1, System.ComponentModel.ISupportInitialize).EndInit()
+            CType(Me.richEditBarController1, System.ComponentModel.ISupportInitialize).EndInit()
             Me.ResumeLayout(False)
 
         End Sub
